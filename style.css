@@ -1,0 +1,39 @@
+header{ 
+    background-color: rgb(255, 8, 0);
+    padding: 50px
+    
+  }
+  
+  p {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right:100px;
+    margin-left: 50px;
+  } 
+
+  h2 {
+   
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 75px;
+    margin-left:100px;
+  
+} 
+  
+  h2 {background-color: yellow;
+}
+
+  .kick{
+    width:50px
+}
+
+  img{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 75px;
+    margin-left:250px;
+
+
+
+  }
+
