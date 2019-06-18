@@ -22,6 +22,9 @@ header{
   
   h2 {background-color: yellow;
 }
+  #lastLine{
+     color: blue;
+  }
 
   .kick{
     width:50px
